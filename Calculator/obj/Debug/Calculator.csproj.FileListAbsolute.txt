@@ -1,0 +1,8 @@
+C:\Users\nihatsaltabas\source\repos\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\nihatsaltabas\source\repos\Calculator\bin\Debug\Calculator.exe
+C:\Users\nihatsaltabas\source\repos\Calculator\bin\Debug\Calculator.pdb
+C:\Users\nihatsaltabas\source\repos\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\nihatsaltabas\source\repos\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihatsaltabas\source\repos\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nihatsaltabas\source\repos\Calculator\obj\Debug\Calculator.exe
+C:\Users\nihatsaltabas\source\repos\Calculator\obj\Debug\Calculator.pdb
