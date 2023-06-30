@@ -1,0 +1,16 @@
+C:\Users\meisenbraun\Projects\Playground\Midterm\bin\Debug\Midterm.exe.config
+C:\Users\meisenbraun\Projects\Playground\Midterm\bin\Debug\Midterm.exe
+C:\Users\meisenbraun\Projects\Playground\Midterm\bin\Debug\Midterm.pdb
+C:\Users\meisenbraun\Projects\Playground\Midterm\obj\Debug\Midterm.csproj.AssemblyReference.cache
+C:\Users\meisenbraun\Projects\Playground\Midterm\obj\Debug\Midterm.csproj.SuggestedBindingRedirects.cache
+C:\Users\meisenbraun\Projects\Playground\Midterm\obj\Debug\Midterm.csproj.CoreCompileInputs.cache
+C:\Users\meisenbraun\Projects\Playground\Midterm\obj\Debug\Midterm.exe
+C:\Users\meisenbraun\Projects\Playground\Midterm\obj\Debug\Midterm.pdb
+\\Mac\Home\Desktop\Midterm\bin\Debug\Midterm.exe.config
+\\Mac\Home\Desktop\Midterm\bin\Debug\Midterm.exe
+\\Mac\Home\Desktop\Midterm\bin\Debug\Midterm.pdb
+\\Mac\Home\Desktop\Midterm\obj\Debug\Midterm.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Midterm\obj\Debug\Midterm.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Midterm\obj\Debug\Midterm.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Midterm\obj\Debug\Midterm.exe
+\\Mac\Home\Desktop\Midterm\obj\Debug\Midterm.pdb
